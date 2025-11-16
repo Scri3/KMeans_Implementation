@@ -2,8 +2,8 @@
 
 Implementation of **K-Means clustering** algorithm on a set of 2D points and
 visualization of the clustered data using a scatter plot.
-<img width="642" height="553" alt="Result" src="https://github.com/user-attachments/assets/ab74eeb4-6d02-4fe3-ab6b-f4e7fd719dbe" />
 
+<img width="642" height="553" alt="Result" src="https://github.com/user-attachments/assets/ab74eeb4-6d02-4fe3-ab6b-f4e7fd719dbe" />
 
 
  To use this script for your own data points:
